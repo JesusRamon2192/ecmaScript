@@ -5,4 +5,6 @@ const countrys = {
     PE: 'Peru'
 };
 //Convierte un objeto a arrays
-console.log(Object.entries(countrys));
+const tabla =Object.entries(countrys);
+console.table(tabla);
+console.log(tabla);
