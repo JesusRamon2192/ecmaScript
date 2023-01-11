@@ -4,5 +4,5 @@ const countrys = {
     CL: 'Chile',
     PE: 'Peru'
 };
-
+//Pasa solo los valores del objeto a un array
 console.log(Object.values(countrys));
