@@ -12,6 +12,8 @@ anotherFunction()
     .then(response => console.log(response))
     .catch(err => console.log(err));
 
+
+    //Ejemplo
 const datos = [{
     id:1, 
     title: 'Iron Man',
