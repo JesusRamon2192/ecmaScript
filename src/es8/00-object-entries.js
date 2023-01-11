@@ -4,4 +4,5 @@ const countrys = {
     CL: 'Chile',
     PE: 'Peru'
 };
+//Convierte un objeto a arrays
 console.log(Object.entries(countrys));
